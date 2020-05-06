@@ -30,7 +30,7 @@ puts "Hey, it's 2019!" unless this_year == 2019
 
 current_time = Time.now 
 current_time.to_i
-puts current_time
+puts current_time.to_i
 #time_true = current_time / 2
 #if time_true == true
 #  puts "Even!"
