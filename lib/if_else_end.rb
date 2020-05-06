@@ -29,4 +29,10 @@ this_year = 2019
 puts "Hey, it's 2019!" unless this_year == 2019
 
 current_time = Time.now 
-current_time.to_s
+
+time_true = current_time / 2
+if time_true == true
+  puts "Even!"
+else
+  puts "Odd!"
+end
