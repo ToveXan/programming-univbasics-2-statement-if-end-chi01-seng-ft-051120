@@ -20,4 +20,4 @@ end
 # 0.2000001 = "Pack a sun shelter!"
 # 0.3 = "Pack an umbrella!"
 # 0.9 = "Stay home and read Hegel."
-# 1000 = "Stay home and read Hegel.
+# 1000 = "Stay home and read Hegel."
