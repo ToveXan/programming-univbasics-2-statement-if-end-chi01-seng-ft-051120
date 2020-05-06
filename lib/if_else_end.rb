@@ -22,3 +22,4 @@ end
 # 0.9 = "Stay home and read Hegel."
 # 1000 = "Stay home and read Hegel."
 # -23 = "Pack a sun shelter!"
+
