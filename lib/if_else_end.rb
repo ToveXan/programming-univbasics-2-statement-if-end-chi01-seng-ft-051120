@@ -12,5 +12,5 @@ if chance_of_rain > 0.5
   puts "Pack an umbrella!"
 elsif (chance_of_rain > 0.25 && chance_of_rain < 0.75)
   puts "Enjoy a fine day!"
-end
-  puts "Oh, and always wear sunscreen!"
+else
+  puts "Stay home and read Hegel."
