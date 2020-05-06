@@ -17,4 +17,5 @@ else
 end
 
 # 0.0000001 = Let's go outside! Pack a sun shelter!
-# 0.2 = 
+# 0.2 = Let's go outside! Pack a sun shelter!
+#
