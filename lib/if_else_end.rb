@@ -6,7 +6,7 @@ if run_code_inside
 end
   puts "Code after if...end"
 
-chance_of_rain = 0.2000001
+chance_of_rain = 0.3
 if chance_of_rain <= 0.25
   puts "Pack a sun shelter!"
 elsif (chance_of_rain > 0.25 && chance_of_rain < 0.75)
@@ -17,4 +17,5 @@ end
 
 # 0.0000001 = Pack a sun shelter!
 # 0.2 = Pack a sun shelter!
-# 0.2000001 = 
+# 0.2000001 = Pack a sun shelter!
+# 0.3 = 
