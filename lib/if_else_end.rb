@@ -6,4 +6,4 @@ if run_code_inside
 end
   puts "Code after if...end"
 
-chance_of_ran
+chance_of_rain = 0.2
