@@ -28,11 +28,25 @@ puts "You know what year it is??"
 this_year = 2019
 puts "Hey, it's 2019!" unless this_year == 2019
 
-current_time = Time.now 
-current_time = current_time.to_i
+current_test_time = Time.now 
+current_test_time = current_test_time.to_i
 
-if current_time % 2 == 0
+if current_test_time % 2 == 0
   puts "Even!"
 else
   puts "Odd!"
+end
+
+current_time = Time.now
+current_time = current_time.to_i
+
+if current_time.even?
+  puts "Even!"
+else
+  puts "Odd!"
+end
+
+result = 2 + 2
+if results == 4
+  puts "We've done it!"
 end
